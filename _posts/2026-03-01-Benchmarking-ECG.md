@@ -6,7 +6,8 @@ date: 2026-03-01
 tags:
   - ML in Healthcare
   - Deep Survival Analysis
-  - PyTorch, PyCox
+  - PyTorch
+  - PyCox
 ---
 📂[GitHub Repository](https://github.com/YanYang-G0001/luks_mortality_thesis/tree/master)
 
